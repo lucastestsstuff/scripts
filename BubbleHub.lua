@@ -69,7 +69,7 @@ Shard.TextColor3 = Color3.fromRGB(255, 255, 255)
 Shard.TextSize = 25.000
 Shard.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
 Shard.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/lucastestsstuff/scripts/main/VS%20autofarm.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/lucastestsstuff/scripts/main/shardtest.lua"))()
 end)
 
 UICorner_4.Parent = Shard
