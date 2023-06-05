@@ -1,7 +1,7 @@
 while wait()do
 local args = {
     [1] = "PurchaseEgg",
-    [2] = "Vortex Egg",
+    [2] = "1M Egg",
     [3] = "Multi"
 }
 
