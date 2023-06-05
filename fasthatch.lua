@@ -6,4 +6,4 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):FindFirstChild("4658877511Event"):FireServer(unpack(args))
-end--
+end
